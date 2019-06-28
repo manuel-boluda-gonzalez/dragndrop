@@ -1,0 +1,42 @@
+#container{
+    position: relative;
+    align-items: center;
+}
+
+#ap757200{
+    padding-top: 5%;
+    position: relative;
+    align-self: center;
+    width: 700px;  
+    height: 500px;
+    z-index: -1;
+}
+
+#flightdeck{
+    position: absolute;
+    top: 250px;
+    left: 50px;
+}
+
+#section1{
+    position: absolute;
+    top: 250px;
+    left: 158px;
+}
+
+#section2{
+    position: absolute;
+    top: 250px;
+    left: 252px;
+}
+
+#section4{
+    position: absolute;
+    top: 250px;
+    left: 450px;
+}
+
+.nav-color{
+    background-color: #78F1E6;
+    
+}
