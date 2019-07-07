@@ -13,25 +13,10 @@
 </head>
 
 <body>
-<div class="container-fluid">
-  <div class="row nav-color">
-    <div class="col-sm-12">
-      <nav class="navbar nav-color">
-        <a class="navbar-brand" href="../index.php">
-          <img src="../img/astech_logo_white.gif" width="120" height="40" class="d-inline-block align-top" alt="">
-        </a>
-        <h4 class="navbar-text text-white"> GEMS Online </h4>
-        <img class="navbar-brand d-inline-block align-top" width="120" height="40" src="../img/icelandair_transparent.png">
-      </nav>
-    </div>
-  </div>
 	<div class="matchgame">
 		<div id="game_container">
        
         <div class="row">
-            <div class="mt-2 col-sm-3 d-flex align-items-end">
-                <p class="icons"> <b> Equipment Icons: </b> </p>
-            </div>
             <div id="button_container" class="mt-2  col-sm-9 d-flex justify-content-end ">
               <input class="btn btn-outline-primary " type="button" value="Submit" id="check_button" />
             </div>
