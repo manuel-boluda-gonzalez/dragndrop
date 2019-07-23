@@ -1,27 +1,27 @@
 {
-  "background": "../img/background.jpg",
+  "background": "../img/background.png",
   "name": "Example",
-  "size": "85px",
+  "size": "75px",
   "figures": [
     {
       "figure": "0",
-      "img": "../img/1.png",
+      "img": "../img/amarillo.jpg",
       "order": "3"
     },
     {
       "figure": "1",
-      "img": "../img/2.png",
-      "order": "4"
+      "img": "../img/azul.jpeg",
+      "order": "1"
     },
     {
       "figure": "2",
-      "img": "../img/3.png",
+      "img": "../img/rojo.jpg",
       "order": "2"
     },
     {
       "figure": "3",
-      "img": "../img/4.png",
-      "order": "2"
+      "img": "../img/verde.jpg",
+      "order": "4"
     }
   ],
   "divs": [
@@ -29,28 +29,28 @@
       "div": "0",
       "id": "Q1",
       "top": "50px",
-      "left": "50px",
+      "left": "20px",
       "order": "1"
     },
     {
       "div": "1",
       "id": "Q2",
       "top": "50px",
-      "left": "150px",
-      "order": "1"
+      "left": "125px",
+      "order": "2"
     },
     {
       "div": "2",
       "id": "Q3",
-      "top": "50px",
-      "left": "250px",
+      "top": "150px",
+      "left": "20px",
       "order": "3"
     },
     {
       "div": "3",
       "id": "Q4",
-      "top": "50px",
-      "left": "350px",
+      "top": "150px",
+      "left": "125px",
       "order": "4"
     }
   ]
